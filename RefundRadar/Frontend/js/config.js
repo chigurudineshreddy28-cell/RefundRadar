@@ -4,7 +4,7 @@
 ============================================================ */
 
 // Change this if your FastAPI backend runs somewhere else.
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://refund-radar-j6l8.vercel.app";
 
 const LS_KEYS = {
   DISPLAY_NAME: "refundradar_display_name",
